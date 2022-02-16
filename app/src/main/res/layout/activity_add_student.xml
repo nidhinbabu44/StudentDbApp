@@ -28,6 +28,7 @@
     </TextView>
 
     <EditText
+        android:inputType="number"
         android:id="@+id/studroll"
         android:textColor="@color/white"
         android:layout_margin="10dp"
@@ -44,6 +45,7 @@
     </TextView>
 
     <EditText
+        android:inputType="number"
         android:id="@+id/studadnum"
         android:textColor="@color/white"
         android:layout_margin="10dp"
